@@ -80,3 +80,11 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2. Load the data
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3. Scatter Plots
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4. Color-codded scatter plot
+
+### 5. Distribuitons
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1. Set up
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2. Load the data
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3. Histograms
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.4. Density plots
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.5. 2D KDE plots
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.6. Color-codded plots
