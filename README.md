@@ -88,3 +88,7 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.4. Density plots
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.5. 2D KDE plots
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.6. Color-codded plots
+
+### 6. Chossing Plot Types and Custom Styles
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1. Chossing Plot Types
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2. Custom Styles with Seaborn
