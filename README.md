@@ -56,6 +56,13 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3. Scaling
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4. Normalization
 
+### 3. Parsing Dates
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1. Set up
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2. Check the data type of out date column
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3. Convert our date column to datetime
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4. Select the day of the month
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5. Plot the day of the month to check the date parsing
+
 ---
 ## Data Visualization
 ### 1. Hello, Seaborn
